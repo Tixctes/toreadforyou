@@ -1,2 +1,2 @@
 # toreadforyou
-beaming stories
+story idea's
